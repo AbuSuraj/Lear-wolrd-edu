@@ -1,0 +1,13 @@
+.btn-color{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #289BDE;
+    border: 1px solid #289BDE;
+    border-radius: 5px;
+    padding: 9px 25px;
+    width: 182px;
+height: 56px;
+}
